@@ -100,7 +100,7 @@
 
 `![대체 텍스트](이미지주소)`
 
-![샐리](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkhX1B1ongxvrv1vvEuQu0Ci5DpdZpOIjbrg&usqp=CAU)
+![귀여운 샐리](./images/다운로드.png)
 
 
 
